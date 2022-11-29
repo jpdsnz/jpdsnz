@@ -1,3 +1,4 @@
+# 🖥 John Paul Jones
 - 👋 Hi, I’m @jpdsnz or John Paul Jones
 - 💻 I’m interested in Computer engineering, software engineering, full-stack development, sound design 🎵 and 🎨 arts
 - 📖 I’m currently learning Angular and MongoDb for application development, and .NET Core Development
