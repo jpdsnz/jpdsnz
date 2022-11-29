@@ -1,6 +1,7 @@
-# 🖥 John Paul Jones
+
 
 ![JP Logo](https://github.com/jpdsnz/jpdsnz/blob/main/logo-semi-tp-75-2.png)
+# 🖥 John Paul Jones
 
 - 👋 Hi, I’m @jpdsnz or John Paul Jones
 - 💻 I’m interested in Computer engineering, software engineering, full-stack development, sound design 🎵 and 🎨 arts
