@@ -1,5 +1,5 @@
 
-# 🖥 John Paul Jones
+# 🖥 John Paul Jones - 🎓 Computer Engineering Graduate 2022
 ![JP Logo](https://github.com/jpdsnz/jpdsnz/blob/main/logo-semi-tp-75-2.png)
 
 
