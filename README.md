@@ -4,7 +4,8 @@
 ## 🎓 Computer Engineering Graduate 2022
 
 <p align="center">
-          <img src="https://github.com/jpdsnz/jpdsnz/blob/main/logo-semi-tp-75-2.png">
+          <img src="https://github.com/jpdsnz/jpdsnz/blob/main/logo-tech.png">
+          <!--<img src="https://github.com/jpdsnz/jpdsnz/blob/main/logo-semi-tp-75-2.png">-->
 </p>
 
 
