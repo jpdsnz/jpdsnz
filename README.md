@@ -7,8 +7,9 @@
 
 
 ## 🖐 Hello, I’m @jpdsnz or *John Paul Jones*
-  - 💻 I’m interested in `Computer engineering`, `software engineering`, `full-stack development`, `embedded systems`, *sound design* 🎵, and *graphic design* 🖌, and *photography* 📷 
-  - 📖 I’m currently learning advanced topics in `Angular` and `MongoDb` for application development 📱 along with `.NET Core` Development
+  - 💻 I’m interested in `Computer engineering`, `software engineering`, `full-stack development`, `embedded systems`
+  - 📘 I'm also interested in `🎵 Sound design `, `🎹 Synthesizer programming `, `🖌 Graphic design `, `📷 Photography`, and `🎥 Video editing` 
+  - 📖 I’m currently learning advanced topics in `Angular` and `MongoDb` for application development 📱 along with `.NET Core` development
   - 🎨 I’m looking to collaborate on any projects to gain experience and widen my programming palette.
 ## 📫 You can reach me at *jpjcompeng@gmail.com*!
 
