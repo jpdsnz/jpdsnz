@@ -3,7 +3,9 @@
 
 ## 🎓 Computer Engineering Graduate 2022
 
-![JP Logo](https://github.com/jpdsnz/jpdsnz/blob/main/logo-semi-tp-75-2.png)
+<p align="center">
+          <img src="https://github.com/jpdsnz/jpdsnz/blob/main/logo-semi-tp-75-2.png">
+</p>
 
 
 ## 🖐 Hello, I’m @jpdsnz or *John Paul Jones*
